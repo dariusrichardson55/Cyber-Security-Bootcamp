@@ -12,20 +12,6 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 <li>Being able to identify and resolve security breaches.</li> 
 </ul>
 
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-</style>
 </head>
 <body>
 
