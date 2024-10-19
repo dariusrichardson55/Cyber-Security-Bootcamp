@@ -43,7 +43,7 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 <table>
   <tr>
     <th>Projects</th>
-    <th>Key skills/Knowledge learnt</th>
+    <th>Key skills/knowledge learnt</th>
   </tr>
   <tr>
     <td>Project 1: Set Up Your CyberSecurity Watch</td>
@@ -66,11 +66,9 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 </body>
 
 <h2 align="left">Programming Languages and Tools:</h2>
-<h3>I have also done projects during university that are helpful in cybersecurity </h3>
+<h3>I have also done projects during university that are helpful in cybersecurity</h3>
 
  <!-- C#  --> 
-
- 
 <table width="99%">
  <tr>
   <a href="https://www.w3schools.com/css" target="C#"> 
