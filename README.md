@@ -46,26 +46,25 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
     <th>Key skills/knowledge learnt</th>
   </tr>
   <tr>
-    <td>Project 1: Set Up Your CyberSecurity Watch</td>
-    <td>Critical thinking, NIST Framework, CIS framework, Software, Technology</td>
+    <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%201%20-%20Set%20Up%20Your%20CyberSecurity%20Watch">Project 1</a> - Set Up Your CyberSecurity Watch</td>
+    <td><code>Critical Thinking</code>, <code>NIST Framework</code>, <code>CIS Framework</code>, <code>Software</code>, <code>Technology</code></td>
   </tr>
   <tr>
-    <td>Project 2: Monistax Risk and Compliance Assessment Report</td>
-    <td>Risk Identification Techniques, Threat Analysis, Vulnerability Assessment, Risk Evaluation, Risk Prioritisation, Quantitative and Qualitative Risk Analysis,
-        Control and Mitigation Strategies, Change Management, Risk Monitoring</td>
+    <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%202%20-%20Monistax%20Risk%20and%20Compliance%20Assessment%20Report">Project 2</a> - Monistax Risk and Compliance Assessment Report</td>
+    <td><code>Risk Identification Techniques</code>, <code>Threat Analysis</code>, <code>Vulnerability Assessment</code>, <code>Risk Evaluation</code>, <code>Risk Prioritisation</code>, <code>Quantitative and Qualitative Risk Analysis</code>, <code>Control and Mitigation Strategies</code>, <code>Change Management</code>, <code>Risk Monitoring</code></td>
   </tr>
   <tr>
-    <td>Project 3: Perform a Vulnerability Scan for your Company's Information System</td>
-    <td>Nessus Essentials, Threat Mitigation, Black Box Scan, White Box Scan, vulnerability Priorisation</td>
+    <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%203%20-%20Perform%20a%20Vulnerability%20Scan%20for%20your%20Company's%20Information%20System">Project 3</a> - Perform a Vulnerability Scan for your Company's Information System</td>
+    <td><code>Nessus Essentials</code>, <code>Threat Mitigation</code>, <code>Black Box Scan</code>, <code>White Box Scan</code>, <code>vulnerability Priorisation</code></td>
   </tr>
   <tr>
-    <td>Project 4: Contribute to Digital Investigations and Incident Response</td>
-    <td>Incident response, communication skills, email writing proficiency</td>
+    <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%204%20-%20Contribute%20to%20Digital%20Investigations%20and%20Incident%20Response">Project 4</a> - Contribute to Digital Investigations and Incident Response</td>
+    <td><code>Incident response</code>, <code>communication skills</code>, <code>email writing proficiency</code></td>
   </tr>
 </table>
 </body>
 
-<h2 align="left">Programming Languages and Tools:</h2>
+<h2 align="left">Programming Languages and Tools</h2>
 <h3>I have also done projects during university that are helpful in cybersecurity</h3>
 
  <!-- C#  --> 
