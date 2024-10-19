@@ -3,10 +3,11 @@
 I am a motivated and detail-oriented Computer Science graduate from the University of Lincoln with hands-on experience as a Junior RPA Engineer, specialising in Automation Anywhere, UiPath, and Blue Prism to streamline business processes. Naturally technically minded, I am proficient across many technologies and systems and can learn extremely quickly.  Having identified a career path within tech, particularly cybersecurity, I am currently participating in a full-time, government-funded Skills Bootcamp in cybersecurity to help achieve this. I am completing real-world projects to further my knowledge and understanding. I now seek employment opportunities that would allow for ongoing professional development, ideally in an earn-and-learn capacity.
 
 <h1>Portfolio</h1>
-I have made a Cybersecurity Portfolio to showcase the tasks and projects that I have done during my CyberSecurity Bootcamp. The Bootcamp has provided me with the necessary knowledge and skills such as:
+I have made a Cybersecurity Portfolio to showcase the tasks and projects that I have done during my training in a CyberSecurity Bootcamp. The Bootcamp has provided me with the necessary knowledge and skills such as:
+
 
 <ul>
-<li>Keping updated with the latest cyberattacks happening to other organisations.</li>
+<li>Keeping updated with the latest cyberattacks happening to other organisations.</li>
 <li>Created risk scenarios to visualise what an attacker would do to infiltrate technologies.</li>
 <li>Using Tenable Nessus scan, to find vulnerabilities in the organisation’s network systems.</li>
 <li>Being able to identify and resolve security breaches.</li> 
@@ -14,49 +15,6 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 
 </head>
 <body>
-
-<h2>HTML Table</h2>
-
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-  <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
-    <td>Austria</td>
-  </tr>
-  <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
-    <td>UK</td>
-  </tr>
-  <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
-    <td>Canada</td>
-  </tr>
-  <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
-    <td>Italy</td>
-  </tr>
-</table>
-
-</body>
-
 
 <h2 align="left">Key Skills:</h2>
 <ul>
@@ -79,6 +37,37 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 <li>Microsoft Office</li>
 <li>Video conferencing</li>
 </ul>
+
+<h2>Project overview</h2>
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Key skills/Knowledge learnt</th>
+  </tr>
+  <tr>
+    <td>Project 1: Set Up Your CyberSecurity Watch</td>
+    <td>Critical thinking, NIST Framework, CIS framework, Software, Technology</td>
+  </tr>
+  <tr>
+    <td>Project 2: Monistax Risk and Compliance Assessment Report</td>
+    <td>Risk Identification Techniques, Threat Analysis, Vulnerability Assessment, Risk Evaluation, Risk Prioritisation, Quantitative and Qualitative Risk Analysis,
+        Control and Mitigation Strategies, Change Management, Risk Monitoring</td>
+  </tr>
+  <tr>
+    <td>Project 3: Perform a Vulnerability Scan for your Company's Information System</td>
+    <td>Nessus Essentials, Threat Mitigation, Black Box Scan, White Box Scan, vulnerability Priorisation</td>
+  </tr>
+  <tr>
+    <td>Project 4: Contribute to Digital Investigations and Incident Response</td>
+    <td>Incident response, communication skills, email writing proficiency</td>
+  </tr>
+</table>
+
+</body>
+
+
+
 
 <h2 align="left">Programming Languages and Tools:</h2>
 <h3>I have also done projects during university </h3>
