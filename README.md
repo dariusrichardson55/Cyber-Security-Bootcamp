@@ -43,7 +43,7 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
 <table>
   <tr>
     <th>Projects</th>
-    <th>Key skills/knowledge learnt</th>
+    <th>Key Skills/Knowledge learnt</th>
   </tr>
       <!-- Project 1 --> 
   <tr>
@@ -58,12 +58,12 @@ I have made a Cybersecurity Portfolio to showcase the tasks and projects that I 
   <!-- Project 3 --> 
   <tr>
     <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%203%20-%20Perform%20a%20Vulnerability%20Scan%20for%20your%20Company's%20Information%20System">Project 3</a> - Perform a Vulnerability Scan for your Company's Information System</td>
-    <td><code>Nessus Essentials</code>, <code>Threat Mitigation</code>, <code>Black Box Scan</code>, <code>White Box Scan</code>, <code>vulnerability Priorisation</code></td>
+    <td><code>Nessus Essentials</code>, <code>Threat Mitigation</code>, <code>Black Box Scan</code>, <code>White Box Scan</code>, <code>Vulnerability Priorisation</code></td>
   </tr>
       <!-- Project 4 --> 
   <tr>
     <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%204%20-%20Contribute%20to%20Digital%20Investigations%20and%20Incident%20Response">Project 4</a> - Contribute to Digital Investigations and Incident Response</td>
-    <td><code>Incident response</code>, <code>communication skills</code>, <code>email writing proficiency</code></td>
+    <td><code>Incident Response</code>, <code>Communication Skills</code>, <code>Email Writing Proficiency</code></td>
   </tr>
 </table>
 </body>
