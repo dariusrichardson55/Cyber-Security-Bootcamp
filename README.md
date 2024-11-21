@@ -1,4 +1,4 @@
-# CyberSecurity-Bootcamp
+# Cyber Security-Bootcamp
 <h1>Professional Statement</h1>
 I am a motivated and detail-oriented Computer Science graduate from the University of Lincoln with hands-on experience as a Junior RPA Engineer, specialising in Automation Anywhere, UiPath, and Blue Prism to streamline business processes. Naturally technically minded, I am proficient across many technologies and systems and can learn extremely quickly.  Having identified a career path within tech, particularly cybersecurity, I am currently participating in a full-time, government-funded Skills Bootcamp in cybersecurity to help achieve this. I am completing real-world projects to further my knowledge and understanding. I now seek employment opportunities that would allow for ongoing professional development, ideally in an earn-and-learn capacity.
 
