@@ -48,7 +48,7 @@ I have made a Cyber Security Portfolio to showcase the tasks and projects that I
   </tr>
       <!-- Project 1 --> 
   <tr>
-    <td><a href="https://github.com/dariusrichardson55/CyberSecurity-Bootcamp/tree/main/Project%201%20-%20Set%20Up%20Your%20CyberSecurity%20Watch">Project 1</a> - Set Up Your Cyber Security Watch</td>
+    <td><a href="https://github.com/dariusrichardson55/Cyber-Security-Bootcamp/tree/main/Project%201%20-%20Set%20Up%20Your%20Cyber%20Security%20Watch">Project 1</a> - Set Up Your Cyber Security Watch</td>
     <td><code>Critical Thinking</code>, <code>NIST Framework</code>, <code>CIS Framework</code>, <code>Software</code>, <code>Technology</code></td>
   </tr>
    <!-- Project 2 --> 
